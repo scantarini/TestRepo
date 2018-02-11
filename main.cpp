@@ -10,3 +10,5 @@ int main()
    std::cout << "Helloooooooooooo Wooooooorld\n";
 }
 >>>>>>> newBranch
+
+//I am adding a new comment
